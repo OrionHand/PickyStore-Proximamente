@@ -1,0 +1,28 @@
+/* You can add global styles to this file, and also import other style files */
+@font-face{
+    font-family: ese;
+    src: url(src/Silence.ttf) format("truetype");
+}
+.silence{
+    font-family: ese  !important;
+}
+.purpura{
+    color: #3e004a;
+}
+
+.cross{
+    background-image: url(assets/img/cross.jpg);
+    height: 500px;
+}
+.titulo{
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.text30{
+    font-size:25px;
+}
+nav.social-media a i{
+    font-size: 30px;
+    color: #3e004a;
+    margin:  14px;
+  }
